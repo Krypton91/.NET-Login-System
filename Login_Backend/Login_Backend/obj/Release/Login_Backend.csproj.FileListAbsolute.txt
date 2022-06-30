@@ -1,0 +1,11 @@
+C:\Users\krypt\source\repos\LoginSystem_MR\Login_Backend\Login_Backend\bin\Release\Login_Backend.exe.config
+C:\Users\krypt\source\repos\LoginSystem_MR\Login_Backend\Login_Backend\bin\Release\Login_Backend.exe
+C:\Users\krypt\source\repos\LoginSystem_MR\Login_Backend\Login_Backend\bin\Release\Login_Backend.pdb
+C:\Users\krypt\source\repos\LoginSystem_MR\Login_Backend\Login_Backend\bin\Release\Newtonsoft.Json.dll
+C:\Users\krypt\source\repos\LoginSystem_MR\Login_Backend\Login_Backend\bin\Release\Newtonsoft.Json.xml
+C:\Users\krypt\source\repos\LoginSystem_MR\Login_Backend\Login_Backend\obj\Release\Login_Backend.csproj.AssemblyReference.cache
+C:\Users\krypt\source\repos\LoginSystem_MR\Login_Backend\Login_Backend\obj\Release\Login_Backend.csproj.SuggestedBindingRedirects.cache
+C:\Users\krypt\source\repos\LoginSystem_MR\Login_Backend\Login_Backend\obj\Release\Login_Backend.csproj.CoreCompileInputs.cache
+C:\Users\krypt\source\repos\LoginSystem_MR\Login_Backend\Login_Backend\obj\Release\Login_Backend.csproj.CopyComplete
+C:\Users\krypt\source\repos\LoginSystem_MR\Login_Backend\Login_Backend\obj\Release\Login_Backend.exe
+C:\Users\krypt\source\repos\LoginSystem_MR\Login_Backend\Login_Backend\obj\Release\Login_Backend.pdb
